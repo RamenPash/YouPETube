@@ -1,0 +1,7 @@
+{
+  "name": "Virtual Pet Feeding Game - Shorts Edition",
+  "description": "An interactive 2D pet feeding game with 16:9 widescreen and 9:16 Shorts aspect ratios featuring 10 popular characters, dining table swipeable ceramic plates, hunger vitals meter, coins economy, and 10 unique lore-based mini-games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
